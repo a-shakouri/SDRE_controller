@@ -1,6 +1,6 @@
 # SDRE_controller
 
-State-dependent Riccati equation (SDRE) control block in Simulink environment. 
+State-dependent Riccati equation (SDRE) control block in Simulink environment, MATLAB R2020b. 
 
 ## File(s)
 
